@@ -2,32 +2,18 @@
 
 A microservices-based inventory management system built with Spring Boot, Angular, and PostgreSQL.
 
+## Table of Contents
+
+- [Notes](#-notes)
+- [Services](#-services)
+- [Screenshots](#-screenshots)
+
+
 ## 📝 Notes
 
 - The source code repositories are **private**.
 - This repository is intended to showcase the project's architecture, features, and demonstration.
 - This project follows a microservices architecture.
-
-## 📸 Screenshots
-
-<div align="center">
-  <img src="screenshots/Dashboard.jpg" width="90%" />
-</div>
-
-<div align="center">
-  <img src="screenshots/Login.jpg" width="45%" />
-  <img src="screenshots/Profile.jpg" width="45%" />
-</div>
-
-<div align="center">
-  <img src="screenshots/Products.jpg" width="45%" />
-  <img src="screenshots/AddNewProduct.jpg" width="45%" />
-</div>
-
-<div align="center">
-  <img src="screenshots/ProductDetails.jpg" width="45%" />
-  <img src="screenshots/ProductStock.jpg" width="45%" />
-</div>
 
 ## 🗂 Services
 
@@ -38,3 +24,24 @@ A microservices-based inventory management system built with Spring Boot, Angula
 | **Product Service** | Product, category, and supplier management. |
 | **Stock Service** | Warehouse management, stock operations, and stock transactions. |
 | **Dashboard Service** | Provides inventory metrics and aggregated dashboard data. |
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/Dashboard.jpg" />
+</div>
+
+<div align="center">
+  <img src="screenshots/Login.jpg" />
+  <img src="screenshots/Profile.jpg" />
+</div>
+
+<div align="center">
+  <img src="screenshots/Products.jpg" />
+  <img src="screenshots/AddNewProduct.jpg" />
+</div>
+
+<div align="center">
+  <img src="screenshots/ProductDetails.jpg" />
+  <img src="screenshots/ProductStock.jpg" />
+</div>
