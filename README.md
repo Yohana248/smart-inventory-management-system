@@ -28,20 +28,15 @@ A microservices-based inventory management system built with Spring Boot, Angula
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/Dashboard.jpg" />
-</div>
-
-<div align="center">
   <img src="screenshots/Login.jpg" />
-  <img src="screenshots/Profile.jpg" />
-</div>
-
-<div align="center">
+  <img src="screenshots/Dashboard.jpg" />
+  <img src="screenshots/Users.jpg" />
   <img src="screenshots/Products.jpg" />
   <img src="screenshots/AddNewProduct.jpg" />
-</div>
-
-<div align="center">
   <img src="screenshots/ProductDetails.jpg" />
+  <img src="screenshots/Categories.jpg" />
+  <img src="screenshots/Suppliers.jpg" />
+  <img src="screenshots/Warehouses.jpg" />
   <img src="screenshots/ProductStock.jpg" />
+  <img src="screenshots/Profile.jpg" />
 </div>
